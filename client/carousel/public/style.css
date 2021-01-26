@@ -1,0 +1,33 @@
+.carousel-main {
+  display: flex;
+  flex-direction: row;
+  height: 450px;
+  width: 75%;
+}
+
+
+
+.left {
+  margin-left: 5%;
+  float: left;
+}
+
+
+.right {
+  margin-right: 5%;
+  float: right;
+}
+
+
+.thumb-container {
+  display: flex;
+  width: 75px;
+  height: 75px;
+  justify-content: center;
+  align-items: top;
+}
+
+
+*:focus {
+  outline: 0;
+}

@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#left {
+  justify-content: space-between;
+}
+
+#right {
+  flex-direction: column;
+}
+
+#description {
+  align-self: flex-end;
+}

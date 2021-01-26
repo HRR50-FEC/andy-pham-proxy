@@ -1,0 +1,1 @@
+module.exports.unsplash = 'YOUR TOKEN HERE'
