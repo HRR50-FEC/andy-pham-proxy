@@ -1,17 +1,11 @@
 body {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
+  width: 1200px;
 }
 
 #left {
-  justify-content: space-between;
+  float: left;
 }
 
 #right {
-  flex-direction: column;
-}
-
-#description {
-  align-self: flex-end;
+  float: right;
 }
